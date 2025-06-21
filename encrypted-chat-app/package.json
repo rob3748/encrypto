@@ -1,0 +1,17 @@
+
+{
+  "name": "encrypted-chat-app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "^9.0.0",
+    "crypto-js": "^4.1.1",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
